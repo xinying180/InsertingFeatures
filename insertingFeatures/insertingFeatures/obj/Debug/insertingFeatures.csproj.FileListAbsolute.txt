@@ -1,0 +1,21 @@
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.exe.config
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.exe
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.pdb
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\bin\Debug\ESRI.ArcGIS.ADF.dll
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\bin\Debug\ESRI.ArcGIS.ADF.xml
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.Form1.resources
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.Properties.Resources.resources
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.csproj.GenerateResource.Cache
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.exe
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.pdb
+E:\ZhuXinying\myself code\2017Project\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.csprojResolveAssemblyReference.cache
+D:\work\github\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.exe.config
+D:\work\github\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.exe
+D:\work\github\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.pdb
+D:\work\github\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.exe
+D:\work\github\insertingFeatures\insertingFeatures\bin\Debug\insertingFeatures.pdb
+D:\work\github\insertingFeatures\insertingFeatures\bin\Debug\ESRI.ArcGIS.ADF.dll
+D:\work\github\insertingFeatures\insertingFeatures\bin\Debug\ESRI.ArcGIS.ADF.xml
+D:\work\github\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.Form1.resources
+D:\work\github\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.Properties.Resources.resources
+D:\work\github\insertingFeatures\insertingFeatures\obj\Debug\insertingFeatures.csproj.GenerateResource.Cache
